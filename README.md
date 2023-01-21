@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 ![cat.png](https://s2.loli.net/2023/01/18/UmKPf5AlbM9so16.png)
-
-[![Oorpow's GitHub stats](https://github-readme-stats.vercel.app/api?username=oorpow&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
